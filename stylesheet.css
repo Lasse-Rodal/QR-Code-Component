@@ -1,0 +1,78 @@
+@import url('https://fonts.googleapis.com/css2?family=Outfit:wght@400;700&display=swap');
+
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+  }
+
+  :root {
+    --white: hsl(0, 0%, 100%);
+    --slate-300: hsl(212, 45%, 89%);
+    --slate-500: hsl(216, 15%, 48%);
+    --slate-900: hsl(218, 44%, 22%);
+
+    --font-family: 'Outfit', sans-serif;
+    --font-size: 15px;
+}  
+ 
+/* Layout */
+body {
+    font-family: 'Figtree', sans-serif;
+    background-color: var(--slate-300);
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    width: 100vw;
+    height: 100vh;
+    padding: 16px;
+  }
+
+  .box {
+    background: var(--white);
+    border: 1px solid var(--white);
+    border-radius: 8px;
+    max-width: 400px;
+    width: 100%;
+    margin: 16px;
+    padding: 16px;
+  }
+
+    /* QR-code image */
+.qr-image {
+    display: inline-block;
+    border-radius: 16px;
+    max-width: 100%;
+    height: auto;
+  }
+
+
+  .text {
+    margin: 12px;
+    text-align: center;
+    line-height: 1.5;
+    padding: 10px;
+  }
+
+  .title {
+    font-size: 22px;
+    font-weight: 800;
+    
+  }
+
+  .paragraph {
+    margin-top: 12px;
+    color: var(--slate-900);
+    font-weight: 400;
+    letter-spacing: 0.9px;
+  }
+/* Attribution styling */
+.attribution { 
+    font-size: 11px; 
+    text-align: center;
+    position: fixed;
+    bottom: 0;
+}
+.attribution a { 
+    color: hsl(228, 45%, 44%); 
+}
