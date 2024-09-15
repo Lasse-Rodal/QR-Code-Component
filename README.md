@@ -23,18 +23,18 @@ Build out this QR code component and get it looking as close to the design as po
 
 <details>
   <summary>Desktop version</summary>
-  <img src="assets/screenshots/blog-preview-card-desktop.png" alt="Desktop version" width="600"/>
+  <img src="assets/screenshots/qr-preview-website.png" alt="Desktop version" width="600"/>
 </details>
 
 <details>
   <summary>Mobile version</summary>
-  <img src="assets/screenshots/blog-preview-card-mobile.png" alt="Mobile version" width="300"/>
+  <img src="assets/screenshots/qr-preview-mobile.png" alt="Mobile version" width="300"/>
 </details>
 
 ### Links
 
-- Solution URL: [https://github.com/Lasse-Rodal/Blog-Preview-Card.git]
-- Live Site URL: [https://lasse-rodal.github.io/Blog-Preview-Card/]
+- Solution URL: [https://github.com/Lasse-Rodal/QR-Code-Component.git]
+- Live Site URL: [https://lasse-rodal.github.io/QR-Code-Component/]
 
 ### Built with
 
